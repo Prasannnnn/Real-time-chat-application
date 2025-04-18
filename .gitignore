@@ -1,0 +1,8 @@
+node_modules/
+
+# Ignore logs
+logs
+*.log
+
+# Ignore environment variables (if you use .env for secrets)
+.env
